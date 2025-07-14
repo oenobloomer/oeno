@@ -1,5 +1,5 @@
 :root {
-  --pink: #ffd9e8;
+  --pink: #feb6dc;
   --green: #b1d1ba;
   --dark: #2e2e2e;
   --light: #fefefe;
@@ -18,7 +18,7 @@ body {
 }
 
 header {
-  background: var(--pink);
+  background: var(--green);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -50,7 +50,7 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: var(--dark);
+  color: var(--pink);
   font-weight: 700;
   transition: transform 0.2s ease, color 0.2s ease;
   padding: 0.5rem 1rem;
