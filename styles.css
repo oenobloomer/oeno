@@ -10,7 +10,7 @@
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Nunito', sans-serif;
   background-color: var(--light);
   color: var(--dark);
   margin: 0;
@@ -18,7 +18,7 @@ body {
 }
 
 header {
-  background: var(--green);
+  background: var(--pink);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -39,7 +39,7 @@ header h1 {
 }
 
 nav {
-  background: var(--pink);
+  background: var(--green);
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
