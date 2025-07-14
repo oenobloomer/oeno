@@ -39,7 +39,7 @@ header h1 {
 }
 
 nav {
-  background: var(--green);
+  background: #779D82;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -50,7 +50,7 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: var(--pink);
+  color: var(--dark);
   font-weight: 700;
   transition: transform 0.2s ease, color 0.2s ease;
   padding: 0.5rem 1rem;
